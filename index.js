@@ -63,4 +63,10 @@ function calculatesFarePrice(start, destination){
     }
 }
 
-/** Math.abs() */
+/** 
+ * I can use Math.abs() to account for the negative numbers from the control flow test--
+ * where the locationa is less than the destination. 
+ * 
+ * Good practice with control flow is rewritting the if/else statements at switch case statements
+ * 
+ * Learning how to write sudo codes to understand the problem and concepts a bit more. */
